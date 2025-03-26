@@ -1,4 +1,4 @@
-# SpaceX Captosne Project
+# SpaceX Capstone Project
 
  ## Editing the file
  
